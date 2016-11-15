@@ -39,7 +39,7 @@ setup(
     ],
     entry_points = {
         'console_scripts': [
-            'mdv = mdv:run',
+            'mdv = mdv:markdowwnviewer:run',
         ],
     },
 )
