@@ -1,3 +1,3 @@
 # coding: utf-8
 
-from markdownviewer import run, main, __version__
+__version__ = "1.4.2"
